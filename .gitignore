@@ -1,0 +1,4 @@
+# In your email-generator folder, create .gitignore and add:
+.env
+node_modules/
+.DS_Store
